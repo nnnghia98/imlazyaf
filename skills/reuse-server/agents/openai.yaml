@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reuse Server"
+  short_description: "Reuse existing project servers"
+  default_prompt: "Use $reuse-server to keep working with my already-running project server."

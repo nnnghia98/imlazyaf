@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enlighten Me"
+  short_description: "Understand work through clear text and visuals"
+  default_prompt: "Use $enlighten-me to help me understand this language model output using the explanation formats from Andrej Karpathy's post."
