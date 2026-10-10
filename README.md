@@ -8,6 +8,7 @@ AI skills showcased for review and reuse. Each skill lives in its own folder und
 | --- | --- |
 | [enlighten-me](skills/enlighten-me/README.md) | Understand a topic or AI's work through clear writing, diagrams, interactive pages, or videos. |
 | [reuse-server](skills/reuse-server/README.md) | Preserve user-managed servers and reuse known URLs or ports. |
+| [server-reuse](skills/server-reuse/README.md) | Reuse the expected dev server and start one only when none is running. |
 
 ## Structure
 
@@ -24,7 +25,12 @@ imlazyaf/
         └── references/
             ├── karpathy-post.md
             └── karpathy-post.png
-    └── reuse-server/
+    ├── reuse-server/
+    │   ├── README.md
+    │   ├── SKILL.md
+    │   └── agents/
+    │       └── openai.yaml
+    └── server-reuse/
         ├── README.md
         ├── SKILL.md
         └── agents/

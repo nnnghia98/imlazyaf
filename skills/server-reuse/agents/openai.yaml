@@ -1,0 +1,4 @@
+interface:
+  display_name: "Server Reuse"
+  short_description: "Reuse existing local dev servers"
+  default_prompt: "Use $server-reuse to reuse the existing local server or start one only if none is running."
